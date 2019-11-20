@@ -1,6 +1,8 @@
 import os
 import sys
 
+onzin = 7
+
 sys.path.append ('transcrypt/modules/org/transcrypt')
 
 from setuptools import setup
